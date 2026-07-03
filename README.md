@@ -10,22 +10,22 @@ End-to-end Excel project analyzing customer churn using data cleaning, pivot tab
 
 ## 📑 Table of Contents
 
-- [📌 Project Overview](#-project-overview)
-- [🎯 Business Problem](#-business-problem)
-- [📂 Dataset Overview](#-dataset-overview)
-- [🧹 Data Cleaning](#-data-cleaning)
-- [📋 Data Audit](#-data-audit)
-- [❓ Business Questions](#-business-questions)
-- [📊 Pivot Analysis](#-pivot-analysis)
-- [📈 Dashboard](#-dashboard)
-- [💡 Key Insights](#-key-insights)
-- [🚀 Business Recommendations](#-business-recommendations)
-- [🛠️ Tools Used](#-tools-used)
-- [👨‍💻 Author](#-author)
+- [Project Overview](#-project-overview)
+- [Business Problem](#-business-problem)
+- [Dataset Overview](#-dataset-overview)
+- [Data Cleaning](#-data-cleaning)
+- [Data Audit](#-data-audit)
+- [Business Questions](#-business-questions)
+- [Pivot Analysis](#-pivot-analysis)
+- [Dashboard](#-dashboard)
+- [Key Insights](#-key-insights)
+- [Business Recommendations](#-business-recommendations)
+- [Tools Used](#-tools-used)
+- [Author](#-author)
 
 ---
 
-## 📌 Project Overview
+##Project Overview
 
 This project presents an end-to-end Excel-based data analytics case study focused on **customer churn in an e-commerce platform**.
 
@@ -40,7 +40,7 @@ The project covers:
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Customer churn is one of the most critical challenges in e-commerce businesses as it directly impacts revenue and long-term growth.
 
@@ -53,7 +53,7 @@ In this analysis, we aim to answer:
 
 ---
 
-## 📂 Dataset Overview
+## Dataset Overview
 
 - Total Customers: **5,630**
 - Churned Customers: **948**
@@ -70,7 +70,7 @@ The dataset includes customer behavioral and transactional data such as:
 
 ---
 
-## 🧹 Data Cleaning
+## Data Cleaning
 
 The dataset was cleaned using business-driven logic:
 
@@ -85,7 +85,7 @@ The dataset was cleaned using business-driven logic:
 
 ---
 
-## 📋 Data Audit
+## Data Audit
 
 A full data quality check was performed:
 
@@ -97,7 +97,7 @@ Result: Dataset is clean and analysis-ready.
 
 ---
 
-## ❓ Business Questions
+## Business Questions
 
 This analysis was structured around key business questions:
 
@@ -111,7 +111,7 @@ This analysis was structured around key business questions:
 
 ---
 
-## 📊 Pivot Analysis
+## Pivot Analysis
 
 Key insights derived from pivot tables:
 
@@ -124,7 +124,7 @@ Key insights derived from pivot tables:
 
 ---
 
-## 📈 Dashboard
+## Dashboard
 
 An interactive Excel dashboard was created including:
 
@@ -140,7 +140,7 @@ The dashboard provides a clear visual representation of churn drivers.
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - Customers in the first **6 months** are the most vulnerable to churn
 - Complaints significantly increase churn probability
@@ -150,7 +150,7 @@ The dashboard provides a clear visual representation of churn drivers.
 
 ---
 
-## 🚀 Business Recommendations
+## Business Recommendations
 
 - Improve onboarding experience for new customers (first 6 months)
 - Actively resolve customer complaints to reduce churn risk
@@ -160,7 +160,7 @@ The dashboard provides a clear visual representation of churn drivers.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -170,7 +170,7 @@ The dashboard provides a clear visual representation of churn drivers.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Abdelrahmen Zidan**
 
